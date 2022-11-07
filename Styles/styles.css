@@ -46,3 +46,22 @@ header {
 .nav_links li a:hover{
     color: #f03b35;
 }
+
+
+.menu_img {
+    width: 1860px;
+    height: 500px;
+}
+
+.menu_img img{
+    width: 100%;
+    height: auto;
+}
+
+.home_text {
+    text-align: center;
+    font-size: 100px;
+    color: #edf0f1;
+    text-shadow:5px 10px #1c1c1c;
+    
+}
