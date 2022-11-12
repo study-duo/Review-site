@@ -57,19 +57,3 @@ header {
   padding-left: 2rem;
   color: white;
 }
-
-#Item1 {
-  position: relative;
-  display: block;
-  margin-left: auto;
-  margin-right: auto;
-  width: 50%;
-}
-
-.text-item1 {
-  color: white;
-}
-
-.content {
-  margin-top: 40px;
-}
